@@ -13,10 +13,14 @@ This repository contains a collection of UI/UX design files created using **Figm
 website.fig    
 
 | 🏍️ Sports bike website.fig | A sleek design for a high-performance bike website. |
+
+
 <img width="428" height="277" alt="Screenshot 2025-07-14 230829" src="https://github.com/user-attachments/assets/db4676c8-ce03-451e-9898-b74083487a06" />
 
 
 | 🚗 Tesla website.fig       | A modern redesign concept for Tesla's homepage. |
+
+
 <img width="209" height="442" alt="Screenshot 2025-07-14 230941" src="https://github.com/user-attachments/assets/b8f45066-d37a-4a03-af2a-0089207ea397" />
 
 
